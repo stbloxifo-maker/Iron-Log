@@ -1,5 +1,5 @@
 // Iron Log offline cache: the app opens in the gym even with no signal.
-const CACHE = "ironlog-v10-1";
+const CACHE = "ironlog-v14-1";
 const CORE = ["./", "./index.html", "./manifest.webmanifest", "./icon-180.png", "./icon-192.png", "./icon-512.png"];
 
 self.addEventListener("install", e => {
